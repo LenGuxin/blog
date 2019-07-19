@@ -6,7 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "build": "vuepress build docs",
+    "deploy": "bash deploy.sh",
+    "docs:deploy": "yubisaki deploy -u LenGuxin -p docs -r LenGuxin.github.io"
   },
   "repository": {
     "type": "git",
@@ -31,6 +33,6 @@
     "markdown-it-imsize": "^2.0.1",
     "markdown-it-task-lists": "^2.1.1",
     "vuepress": "^1.0.2",
-    "vuepress-theme-yubisaki": "^3.1.9"
+    "vuepress-theme-yubisaki": "^3.1.0"
   }
 }

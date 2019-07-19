@@ -2,7 +2,7 @@
 title: vue-typescript 就是这么简单...
 date: '2019/04/30 12:00:00'
 type: post
-tag: ['vue', 'typescript']
+tag: ['ts', 'typescript']
 meta:
   -
     name: description
