@@ -31,8 +31,8 @@ module.exports = {
     nav: [
       { text: 'Blog', link: '/' },
       { text: 'About', link: '/about/' },
-      { text: 'TAGS', link: '/tag/'},
-      { text: 'juejin', link: 'https://juejin.im/user/59032235b123db3ee46e9004/posts' },
+      { text: 'Tags', link: '/tag/'},
+      { text: 'JueJin', link: 'https://juejin.im/user/59032235b123db3ee46e9004/posts' },
       { text: 'Github', link: 'https://github.com/LenGuxin' }
     ]
   }

@@ -13,6 +13,10 @@ meta:
 ---
 
 <plContent >
-  
+
+:100: vuepress + GitHub pages部署博客
+<!-- more -->
+:tada: :tada: 可以使用[vuepress](https://vuepress.vuejs.org/zh/)创建静态网站，也可以使用搭建属于自己的博客，里面展示自己的技术文章或者一些笔记，然后使用将其部署到GitHub pages
+
 </plContent>
 

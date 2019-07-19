@@ -1,5 +1,5 @@
 ---
-title: vue-typescript 就是这么简单...
+title: vue + typescript结合
 date: '2019/04/30 12:00:00'
 type: post
 tag: ['ts', 'typescript']
@@ -13,7 +13,8 @@ meta:
 ---
 
 <plContent>
-### vue+typescript的基本使用
+
+:100: vue+typescript的基本使用
 <!-- more -->
 
 自尤大神去年9月推出vue对typescript的支持后，一直想开箱尝试vue+ts，最近一个新项目准备入手typescript，也遇到了很多坑，下面就一步步来吧！！！
