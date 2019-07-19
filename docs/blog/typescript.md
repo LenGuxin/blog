@@ -12,7 +12,8 @@ meta:
     content: vue, typescript 
 ---
 
-本文介绍typescript的基本使用
+<plContent>
+### vue+typescript的基本使用
 <!-- more -->
 
 自尤大神去年9月推出vue对typescript的支持后，一直想开箱尝试vue+ts，最近一个新项目准备入手typescript，也遇到了很多坑，下面就一步步来吧！！！
@@ -517,3 +518,4 @@ public editorInit: any = {
 3. [ts中文文档](http://tinymce.ax-z.cn/)
 4. [vue-cli3 项目从搭建优化到docker部署](https://juejin.im/post/5c4a6fcd518825469414e062#heading-8)
 
+</plContent>
