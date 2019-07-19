@@ -1,1 +1,5 @@
-## death is our final destination. enjoy the journey
+<plContent>
+
+  ![An image](../.vuepress/public/images/intro.png)
+
+</plContent>
