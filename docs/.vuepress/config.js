@@ -1,7 +1,7 @@
 module.exports = {
   theme: 'yubisaki',
   title: 'Home',
-  description: `this in my blog`,
+  description: `我的博客`,
   head: [
     ['link', { rel: 'icon', href: `/favicon.ico` }]
   ],
